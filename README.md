@@ -7,9 +7,9 @@
  O desafio é construir o componente de código QR o mais próximo possível do design.
 
 ### Descktop
- ![Screenshot 2023-12-21 at 14-50-10 Frontend Mentor QR code component](https://github.com/aureliandro-oliveira/Qr-code-component/assets/140663518/299d7703-344c-4f62-8c29-23073d71829a)
+ ![Screenshot 2023-12-21 at 14-50-10 Frontend Mentor QR code component](https://github.com/aureliandro-oliveira/Qr-code/assets/140663518/51bb4278-3566-4299-9c7e-aeda45259110)
 ### Celular
-![celular](https://github.com/aureliandro-oliveira/Qr-code-component/assets/140663518/1b1dcb01-13f8-468d-877e-4fc920e75b1b)
+![celular](https://github.com/aureliandro-oliveira/Qr-code/assets/140663518/ef9bc9c6-29cb-42e6-8f8b-68af281a939b)
 
 ## Tecnologias usadas
  <ul>
