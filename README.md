@@ -1,6 +1,6 @@
 # Qr Code Component
 ### Link do projeto no github
- https://aureliandro-oliveira.github.io/Qr-code-component/
+https://aureliandro-oliveira.github.io/Qr-code/
 
 # Sobre o projeto
  Este projeto é um desafio do Frontend Mentor, uma plataforma online que oferece cursos e projetos de desenvolvimento web para iniciantes e profissionais. O objetivo do projeto é construir um componente de código QR usando HTML, CSS e JavaScript, seguindo as instruções e os exemplos fornecidos pelo site.
